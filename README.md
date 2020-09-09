@@ -1,5 +1,5 @@
 # Food.AI
-#### Easy calorie tracking using real-time object detection on Android. Created for MIT Blueprint Hackathon 2019
+#### Easy calorie tracking using real-time object detection on Android. Created for MIT Blueprint Hackathon 2019 with Jonathan Y., Carl W., and Pratik B.
 
 <img src="Food.AI_demo.gif" width="300" height="660"/>
 
